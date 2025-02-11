@@ -87,4 +87,8 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC5717752/
     - 2+2=5 type stuff
     - concentration is important to get right!
 
+### The end
+
+# THANK YOU FOR COMING TO MY TED TALK :)
+
 ![Fun](https://cdn.myportfolio.com/c5ca24d8c42194c70183b492fb6b1511/44bcf666-c33c-4a26-b72e-d502fb4d1db6_rw_1920.jpg?h=14b3b0c995e9c3c50e8d7f3c210393a6)
