@@ -6,7 +6,7 @@ Several real categories of error/variability/error types:
 - Preparation
 - Reagent issues
 
-Let's dive in :)
+## Let's dive in :)
 
 ![RNA Seq](https://microbenotes.com/wp-content/uploads/2022/07/RNA-Sequencing.jpg)
 
