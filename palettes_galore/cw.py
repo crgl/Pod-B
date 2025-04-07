@@ -3,7 +3,7 @@ import colorcet as cc
 
 def cw(v):
     '''
-    A function that encodes different place values
+    A function which encodes different place values
     of a number less than 1 in the r, g, and b channels
     in a color.
     '''
