@@ -36,7 +36,7 @@ if __name__ == '__main__':
     for i, pal in enumerate(pals):
         ax = axes[i // 3, i % 3]
         plt.sca(ax)
-        sns.scatterplot(data=df, x='x', y='y', hue='hue', palette=pal, legend=None)
+        sns.scatterplot(data=df, x='x', y='y', hue='hue', palette=pal, s=100, legend=None)
         # sns.scatterplot(data=df, x='x', y='y', hue='hue', palette='magma', legend=None)
         plt.xticks([])
         plt.yticks([])
